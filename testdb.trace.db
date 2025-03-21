@@ -1,0 +1,9 @@
+2025-03-21 20:31:16.184384+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_INFO" not found (this database is empty); SQL statement:
+select ui1_0.id,ui1_0.blocked,ui1_0.email,ui1_0.password from user_info ui1_0 where ui1_0.email=? [42104-232]
+2025-03-21 20:31:19.201827+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_INFO" not found (this database is empty); SQL statement:
+select ui1_0.id,ui1_0.blocked,ui1_0.email,ui1_0.password from user_info ui1_0 where ui1_0.email=? [42104-232]
+2025-03-21 20:38:16.411792+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_INFO" not found (this database is empty); SQL statement:
+select ui1_0.id,ui1_0.blocked,ui1_0.email,ui1_0.password from user_info ui1_0 where ui1_0.email=? [42104-232]
